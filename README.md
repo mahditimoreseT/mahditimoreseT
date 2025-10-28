@@ -1,10 +1,10 @@
+![logo](https://github.com/mahditimoreseT/mahditimoreseT/blob/main/download.jpg)
 <h1 align="center">سلام 👋، من مهدی هستم</h1>
 <h3 align="center">👨‍💻 Code, ☕ & 🚀 Fun | 😎 پروژه‌ها و بازی با الگوریتم‌ها</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahditimoreset&label=Profile%20views&color=0e75b6&style=flat" alt="mahditimoreset" /> </p>
 
----
-<img align="right" alt="gif" width="400" src="https://miro.medium.com/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<img align="right" alt="gif" width="500" src="https://miro.medium.com/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <h3 align="left">زبان‌ها و ابزارها:</h3>
 <p align="left">
